@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 2px dashed black;
+    text-align: center;
+    width: 490px;
+    
+}
+.btn{
+    button{
+    margin: 3px;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 12px;
+    }
+}
